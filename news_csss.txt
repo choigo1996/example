@@ -1,0 +1,6 @@
+css 이미지 스타일링에 사용되는 속성
+object-fit :
+
+fill 종횡비를 지키지 않음
+contain 여백이 생김. 종횡비를 지킴
+cover 종횡비를 지킴
