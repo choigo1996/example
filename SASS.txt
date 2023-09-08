@@ -72,3 +72,17 @@ for (초기식; 조건식; 증감식) {
 1.태그이름 : ex)document.querySelectorAll("태그이름")
 2.ID : ex)document.querySelectorAll("#id이름")
 3.Class : ex)document.querySelectorAll(".class이름")
+
+프로그래밍 언어 작성 순서들(기본)
+입력-출력-저장-로드-예외처리
+
+조건식 속 에서 false 인것
+1. false
+2.0
+3.""
+4.null
+
+위에거 뺴고 모든 것은 true
+
+CSS꿀팁
+항상 부모의 위치가 어디인지 알아보기 위해서 BGC를 통해서 확인하자!
